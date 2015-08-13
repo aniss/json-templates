@@ -1,0 +1,30 @@
+{
+  "name": "json-template",
+  "version": "0.1.0",
+  "description": "Generate JSON files from hbs templates",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniss/json-templates.git"
+  },
+  "keywords": [
+    "json",
+    "templates",
+    "data",
+    "handlebars",
+    "api"
+  ],
+  "author": "Anis Bouraba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aniss/json-templates/issues"
+  },
+  "homepage": "https://github.com/aniss/json-templates#readme",
+  "devDependencies": {
+    "handlebars": "^3.0.3",
+    "mocha": "^2.2.5"
+  }
+}
